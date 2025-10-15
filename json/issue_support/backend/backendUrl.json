@@ -1,0 +1,9 @@
+{
+  "supporter-statics-url": "https://service.chanjet.com/backend/api/stats-serviceplat/supporter-statics",
+  "new-search-url": "https://service.chanjet.com/backend/api/issue-score/new-search",
+  "issue-dev-stats-url": "https://service.chanjet.com/backend/api/stats/issue-dev-stats",
+  "support-issue-state-url": "https://service.chanjet.com/backend/api/stats/support-issue-state",
+  "support-product-stats-url": "https://service.chanjet.com/backend/api/stats/support-product-stats",
+  "support-scores-url": "https://service.chanjet.com/backend/api/stats/support-scores-new",
+  "support-works-url": "https://service.chanjet.com/backend/api/stats/support-works"
+}

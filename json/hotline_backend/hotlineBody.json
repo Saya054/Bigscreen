@@ -1,0 +1,17 @@
+{"body":{
+"ids": [
+411984, 425634],
+  "statAt": [
+"2023-09-01 00:00:00",
+"2023-09-30 23:59:59"],
+ "permission": [
+"all",
+"queue",
+"ivr"],
+"orderField": null,
+"orderType": "none",
+"pageNum": 1,
+"pageSize": 20,
+"displayForbiddenAgent": 0
+}
+}

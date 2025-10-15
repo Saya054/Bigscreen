@@ -1,0 +1,13 @@
+{
+   "cookies":
+   {
+     "PHPSESSID": "jqgteskmomkcgfc90u82358bm0",
+     "path": "/",
+     "domain":".chanjet.com",
+     "_identify": "a534eb5633c258208d8025f98d75e1b5f17ff03eeb7a7650eaafdd66ad9b0268a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identify%22%3Bi%3A1%3Bs%3A50%3A%22%5B%7B%22%24oid%22%3A%226013e029553a52001877ed82%22%7D%2Cnull%2C2592000%5D%22%3B%7D",
+     "expires": "Thu, 12-Oct-2023 01:01:09 GMT",
+     "Max-Age": "2592000",
+     "samesite": "Lax"
+
+   }
+}

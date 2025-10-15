@@ -1,0 +1,10 @@
+{  "ids": [ 1610834],
+              "statAt": ["2023-10-27 00:00:00","2023-10-27 23:59:59"],
+              "permission": ["all","queue","order","opinion"],
+              "orderField": null,
+              "orderType": "none",
+              "pageNum": 1,
+              "pageSize": 20,
+              "displayForbiddenAgent": 0,
+              "timeStrategy":"work"
+              }
