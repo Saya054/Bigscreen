@@ -5,7 +5,6 @@
 ## 预览
 <img width="1378" height="1817" alt="图片1" src="https://github.com/user-attachments/assets/5fc86092-10a8-4f4f-9ddb-41729549dc05" />
 
-
 ## 技术栈
 - **后端**：Flask、Flask-CORS，提供页面渲染与 JSON API。
 - **数据层**：MySQL（表结构见 `sql/table.sql`，示例数据见 `sql/data.sql`），通过 PyMySQL 访问。
