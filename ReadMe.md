@@ -2,6 +2,10 @@
 
 本项目是一套基于 Flask 的数据可视化大屏，看板从 MySQL 中读取业务支撑相关指标，通过 HTML/CSS/JavaScript 与 ECharts 展示热线、支持网、社区、IM 及绩效等核心数据。项目内置数据采集脚本，可定时从第三方接口拉取最新指标并落库，支持搭建在本地或局域网环境中进行展示。
 
+## 预览
+<img width="1378" height="1817" alt="图片1" src="https://github.com/user-attachments/assets/5fc86092-10a8-4f4f-9ddb-41729549dc05" />
+
+
 ## 技术栈
 - **后端**：Flask、Flask-CORS，提供页面渲染与 JSON API。
 - **数据层**：MySQL（表结构见 `sql/table.sql`，示例数据见 `sql/data.sql`），通过 PyMySQL 访问。
